@@ -1,0 +1,3 @@
+type ResponseData = {
+  message: string
+}
